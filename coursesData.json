@@ -1,0 +1,62 @@
+[
+  {
+    "id": "course-001",
+    "title": "AWS Certified Cloud Practitioner",
+    "provider": "Amazon Web Services",
+    "category": "Cloud",
+    "description": "Master the fundamentals of AWS Cloud and prepare for the CLF-C02 examination with our guided roadmap.",
+    "sourceLink": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800",
+    "duration": "4-6 Weeks"
+  },
+  {
+    "id": "course-002",
+    "title": "Google Data Analytics Professional",
+    "provider": "Coursera",
+    "category": "Data Science",
+    "description": "Complete hands-on training on SQL, R, and Tableau. We help you finish the capstone project for the certificate.",
+    "sourceLink": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+    "duration": "2-3 Months"
+  },
+  {
+    "id": "course-003",
+    "title": "CompTIA Security+",
+    "provider": "CompTIA",
+    "category": "Security",
+    "description": "The global standard for cybersecurity professionals. Our labs cover network security, threats, and vulnerabilities.",
+    "sourceLink": "https://www.comptia.org/certifications/security",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800",
+    "duration": "8 Weeks"
+  },
+  {
+    "id": "course-004",
+    "title": "IBM Data Science Professional",
+    "provider": "IBM",
+    "category": "Data Science",
+    "description": "Learn Python, Machine Learning, and SQL from IBM experts. We provide project implementation assistance.",
+    "sourceLink": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "image": "https://images.unsplash.com/photo-1527474305487-b87b222841cc?auto=format&fit=crop&q=80&w=800",
+    "duration": "3 Months"
+  },
+  {
+    "id": "course-005",
+    "title": "Azure Fundamentals (AZ-900)",
+    "provider": "Microsoft",
+    "category": "Cloud",
+    "description": "Entry-level certification for Microsoft Azure. Ideal for students starting their cloud journey.",
+    "sourceLink": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/",
+    "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&q=80&w=800",
+    "duration": "4 Weeks"
+  },
+  {
+    "id": "course-006",
+    "title": "Cisco Certified Network Associate (CCNA)",
+    "provider": "Cisco",
+    "category": "Networking",
+    "description": "The foundation for networking careers. We provide real-world router and switch configuration training.",
+    "sourceLink": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?auto=format&fit=crop&q=80&w=800",
+    "duration": "10 Weeks"
+  }
+]
