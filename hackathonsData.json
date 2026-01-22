@@ -1,0 +1,88 @@
+{
+  "hackathons": [
+    {
+      "id": "h1",
+      "title": "ShikshaLokam Challenge",
+      "company": "ShikshaLokam",
+      "companyLogo": "SL",
+      "status": "Live",
+      "type": "Online",
+      "participants": "2.0K",
+      "source": "HackerEarth",
+      "category": "Education Tech",
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80&w=800",
+      "joinLink": "https://www.hackerearth.com/challenges/",
+      "applyLink": "https://forms.gle/dominantmind-apply"
+    },
+    {
+      "id": "h2",
+      "title": "Smart City Innovation Hub",
+      "company": "Google Cloud",
+      "companyLogo": "GC",
+      "status": "Upcoming",
+      "type": "Hybrid",
+      "participants": "5.4K",
+      "source": "Devpost",
+      "category": "IoT & Smart City",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=800",
+      "joinLink": "https://devpost.com/hackathons",
+      "applyLink": "https://forms.gle/dominantmind-apply"
+    },
+    {
+      "id": "h3",
+      "title": "AI for Healthcare Expo",
+      "company": "Microsoft Azure",
+      "companyLogo": "MS",
+      "status": "Live",
+      "type": "Online",
+      "participants": "1.2K",
+      "source": "Unstop",
+      "category": "HealthTech",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800",
+      "joinLink": "https://unstop.com/hackathons",
+      "applyLink": "https://forms.gle/dominantmind-apply"
+    },
+    {
+      "id": "h4",
+      "title": "Sustainable Energy Sprint",
+      "company": "Shell",
+      "companyLogo": "SH",
+      "status": "Upcoming",
+      "type": "Online",
+      "participants": "800",
+      "source": "HackerRank",
+      "category": "Sustainability",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&q=80&w=800",
+      "joinLink": "https://www.hackerrank.com/contests",
+      "applyLink": "https://forms.gle/dominantmind-apply"
+    },
+    {
+      "id": "h5",
+      "title": "FinTech Revolution",
+      "company": "J.P. Morgan",
+      "companyLogo": "JP",
+      "status": "Live",
+      "type": "Offline",
+      "participants": "3.1K",
+      "source": "Company Portal",
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+      "joinLink": "https://www.jpmorgan.com/technology/applied-ai-hackathon",
+      "applyLink": "https://forms.gle/dominantmind-apply"
+    },
+    {
+      "id": "h6",
+      "title": "Blockchain Builders",
+      "company": "Polygon",
+      "companyLogo": "PY",
+      "status": "Upcoming",
+      "type": "Online",
+      "participants": "4.5K",
+      "source": "Devfolio",
+      "category": "Web3",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&q=80&w=800",
+      "joinLink": "https://devfolio.co/hackathons",
+      "applyLink": "https://forms.gle/dominantmind-apply"
+    }
+  ]
+}
