@@ -67,21 +67,5 @@
     "techStack": ["Figma", "Adobe XD", "Illustrator", "Tailwind CSS UI"],
     "postedDate": "2024-05-22"
   },
-  {
-    "id": "job-005",
-    "title": "Sales & Marketing Associate",
-    "category": "Marketing",
-    "type": "Full-time",
-    "location": "Bidar",
-    "salaryRange": "Base + High Incentives",
-    "description": "Drive the growth of Dominant Mind by connecting with colleges and students across Karnataka. You will be the face of our academy.",
-    "requirements": [
-      "Excellent presentation and persuasion skills.",
-      "Willingness to travel for college seminars and fests.",
-      "Basic understanding of the engineering education ecosystem.",
-      "Proficiency in local languages (Kannada/Hindi)."
-    ],
-    "techStack": ["CRM Tools", "Social Media Analytics", "Google Workspace"],
-    "postedDate": "2024-05-24"
-  }
+ 
 ]
