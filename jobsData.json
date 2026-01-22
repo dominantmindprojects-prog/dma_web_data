@@ -67,5 +67,23 @@
     "techStack": ["Figma", "Adobe XD", "Illustrator", "Tailwind CSS UI"],
     "postedDate": "2024-05-22"
   },
+  {
+  "id": "job-005",
+  "title": "AI & Machine Learning Engineer",
+  "category": "Engineering",
+  "type": "Full-time",
+  "location": "Remote/Hybrid",
+  "salaryRange": "Based on Experience",
+  "description": "You will build and deploy real-world AI solutions while also contributing to hands-on training programs for aspiring ML engineers.",
+  "requirements": [
+    "Strong foundation in Machine Learning and Deep Learning.",
+    "Experience building and deploying ML models in production.",
+    "Ability to explain complex ML concepts clearly.",
+    "Hands-on experience with data preprocessing and model evaluation."
+  ],
+  "techStack": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Docker"],
+  "postedDate": "2024-05-25"
+}
+
  
 ]
