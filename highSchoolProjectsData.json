@@ -1,0 +1,62 @@
+{
+  "highSchoolProjects": [
+    {
+      "id": "HS-301",
+      "category": "Physics",
+      "title": "Wireless Power Transmission",
+      "description": "Implementation of Tesla Coil concepts to transmit electricity through the air to light a bulb.",
+      "technicalScope": [
+        "Electromagnetism",
+        "Induction",
+        "Circuit Design"
+      ],
+      "impact": "Demonstrates future energy possibilities.",
+      "complexity": "Challenge",
+      "buildTime": "4-6 Days",
+      "classLevel": 12,
+      "images": [
+        "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1200"
+      ]
+    },
+    {
+      "id": "HS-401",
+      "category": "Computer Science",
+      "title": "AI Smart Door Lock",
+      "description": "A Python-based facial recognition system that unlocks a door for authorized students.",
+      "technicalScope": [
+        "Python",
+        "OpenCV",
+        "Raspberry Pi"
+      ],
+      "impact": "Practical security application.",
+      "complexity": "Challenge",
+      "buildTime": "7-10 Days",
+      "classLevel": 11,
+      "images": [
+        "https://images.unsplash.com/photo-1558002038-1037906d9927?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=1200"
+      ]
+    },
+    {
+      "id": "HS-501",
+      "category": "Electronics",
+      "title": "IoT Garbage Monitor",
+      "description": "Smart dustbin using ultrasonic sensors to alert when full, perfect for Swachh Bharat themes.",
+      "technicalScope": [
+        "Arduino",
+        "IoT",
+        "Cloud Integration"
+      ],
+      "impact": "Sustainable city management.",
+      "complexity": "Medium",
+      "buildTime": "3-5 Days",
+      "classLevel": 11,
+      "images": [
+        "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1581092346544-245451494024?auto=format&fit=crop&q=80&w=1200"
+      ]
+    }
+  ]
+}
