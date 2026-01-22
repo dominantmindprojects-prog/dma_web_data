@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "category": "Artificial Intelligence",
+      "title": "Fake News Detection",
+      "shortDescription": "A machine learning model using NLP to classify news articles as real or fake.",
+      "longDescription": "Developed a robust machine learning model leveraging Natural Language Processing (NLP) techniques to accurately detect and classify fake news articles.",
+      "icon": "BrainCircuit",
+      "gradient": "from-purple-500 to-indigo-600",
+      "techStack": ["Python", "TensorFlow", "Keras", "NLTK", "scikit-learn"],
+      "offerings": ["Source Code", "IEEE Papers", "PPT", "Live Training", "Documentation"],
+      "images": [
+        "/images/fake-news-1.png",
+        "/images/fake-news-2.png",
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=800"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Artificial Intelligence",
+      "title": "Facial Emotion Recognition",
+      "shortDescription": "Deep learning system that detects human emotions from live camera feeds.",
+      "longDescription": "Using CNNs, this system identifies expressions like happiness, sadness, anger, and surprise in real-time.",
+      "icon": "BrainCircuit",
+      "gradient": "from-blue-500 to-indigo-600",
+      "techStack": ["Python", "OpenCV", "TensorFlow", "CNN"],
+      "offerings": ["Source Code", "Trained Weights", "Report", "Viva Guide"],
+      "images": [
+        "/images/emotion-1.png",
+        "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?auto=format&fit=crop&q=80&w=800"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "IoT Solutions",
+      "title": "Smart Home Automation",
+      "shortDescription": "Control appliances via smartphone with real-time feedback.",
+      "longDescription": "Designed a comprehensive smart home system allowing users to remotely control lights and fans via ESP32.",
+      "icon": "Wifi",
+      "gradient": "from-cyan-500 to-blue-600",
+      "techStack": ["ESP32", "Arduino", "Blynk", "MQTT"],
+      "offerings": ["Source Code", "Hardware Kit", "PPT", "Live Training", "Documentation"],
+      "images": [
+        "/images/smart-home.png",
+        "https://images.unsplash.com/photo-1558002038-1037906d9927?auto=format&fit=crop&q=80&w=800"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Web Development",
+      "title": "Real-time Chat Application",
+      "shortDescription": "Modern chat platform with Socket.io for instant messaging.",
+      "longDescription": "A Slack-like clone with public rooms, private chats, and file sharing.",
+      "icon": "Globe",
+      "gradient": "from-blue-600 to-indigo-700",
+      "techStack": ["React", "Node.js", "Socket.io", "MongoDB"],
+      "offerings": ["Full Source", "Database Schema", "Report", "Deployment Guide"],
+      "images": [
+        "/images/chat-app.png",
+        "https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&q=80&w=800"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "Game Development",
+      "title": "2D Platformer Game",
+      "shortDescription": "Side-scrolling platform game with levels and enemies.",
+      "longDescription": "Developed using Unity and C#, featuring multiple levels and enemy AI.",
+      "icon": "Gamepad2",
+      "gradient": "from-purple-500 to-pink-600",
+      "techStack": ["Unity", "C#", "Photoshop"],
+      "offerings": ["Source Code", "Gameplay Video", "Documentation"],
+      "images": [
+        "https://images.unsplash.com/photo-1605130889365-6a7a6c5cfdc3?auto=format&fit=crop&q=80&w=800"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Blockchain",
+      "title": "Smart Contract Voting System",
+      "shortDescription": "Decentralized voting platform using Ethereum smart contracts.",
+      "longDescription": "Ensures transparency and immutability of votes on blockchain.",
+      "icon": "Boxes",
+      "gradient": "from-indigo-500 to-blue-600",
+      "techStack": ["Solidity", "Ethereum", "Web3.js"],
+      "offerings": ["Smart Contract Code", "Deployment Guide", "Demo Video"],
+      "images": [
+        "https://images.unsplash.com/photo-1603791440384-56cd371ee9d3?auto=format&fit=crop&q=80&w=800"
+      ]
+    }
+  ],
+  "topProjects": [1, 2, 5, 7, 31, 32]
+}
