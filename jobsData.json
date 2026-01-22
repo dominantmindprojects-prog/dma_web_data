@@ -1,0 +1,87 @@
+[
+  {
+    "id": "job-001",
+    "title": "Senior Full-Stack Developer",
+    "category": "Engineering",
+    "type": "Full-time",
+    "location": "Bidar (On-site/Hybrid)",
+    "salaryRange": "Competitive",
+    "description": "We are looking for a powerhouse developer to lead the creation of internal learning tools and client projects. You will be responsible for architecting scalable solutions and mentoring junior developers.",
+    "requirements": [
+      "5+ years of experience in modern web technologies.",
+      "Strong architectural understanding of microservices.",
+      "Ability to translate complex business requirements into technical specs.",
+      "Passion for teaching and mentoring students."
+    ],
+    "techStack": ["React", "Node.js", "PostgreSQL", "AWS", "TypeScript"],
+    "postedDate": "2024-05-15"
+  },
+  {
+    "id": "job-002",
+    "title": "Cybersecurity Expert & Mentor",
+    "category": "Instruction",
+    "type": "Part-time",
+    "location": "Remote/Hybrid",
+    "salaryRange": "Industry Standard",
+    "description": "Join us to shape the next generation of security professionals. You will design curriculum and lead intensive bootcamps on ethical hacking and network security.",
+    "requirements": [
+      "CEH or CISSP certification preferred.",
+      "Proven track record in VAPT and Network Security.",
+      "Excellent communication skills to explain complex concepts to beginners.",
+      "Hands-on experience with security auditing tools."
+    ],
+    "techStack": ["Kali Linux", "Metasploit", "Wireshark", "Burp Suite", "Python"],
+    "postedDate": "2024-05-18"
+  },
+  {
+    "id": "job-003",
+    "title": "DSA & Competitive Programming Lead",
+    "category": "Instruction",
+    "type": "Contract",
+    "location": "Bidar (On-site)",
+    "salaryRange": "Performance Based",
+    "description": "Are you a 5-star coder on CodeChef or Specialist on Codeforces? We want you to lead our elite batch of competitive programmers.",
+    "requirements": [
+      "High ranking on LeetCode/Codeforces/CodeChef.",
+      "Deep understanding of advanced algorithms (DP, Graphs, Trees).",
+      "Previous experience in teaching DSA is a huge plus.",
+      "Strong problem-solving and debugging skills."
+    ],
+    "techStack": ["C++", "Java", "Python", "Algorithm Design"],
+    "postedDate": "2024-05-20"
+  },
+  {
+    "id": "job-004",
+    "title": "Junior UI/UX Designer",
+    "category": "Design",
+    "type": "Full-time",
+    "location": "Bidar (On-site)",
+    "salaryRange": "Commensurate with Skill",
+    "description": "Help us make technical education beautiful. You will design interfaces for our internal portals and create high-impact branding for student projects.",
+    "requirements": [
+      "Portfolio demonstrating clean, modern UI design.",
+      "Understanding of user-centric design principles.",
+      "Ability to create wireframes and high-fidelity prototypes.",
+      "Basic knowledge of HTML/CSS is a plus."
+    ],
+    "techStack": ["Figma", "Adobe XD", "Illustrator", "Tailwind CSS UI"],
+    "postedDate": "2024-05-22"
+  },
+  {
+    "id": "job-005",
+    "title": "Sales & Marketing Associate",
+    "category": "Marketing",
+    "type": "Full-time",
+    "location": "Bidar",
+    "salaryRange": "Base + High Incentives",
+    "description": "Drive the growth of Dominant Mind by connecting with colleges and students across Karnataka. You will be the face of our academy.",
+    "requirements": [
+      "Excellent presentation and persuasion skills.",
+      "Willingness to travel for college seminars and fests.",
+      "Basic understanding of the engineering education ecosystem.",
+      "Proficiency in local languages (Kannada/Hindi)."
+    ],
+    "techStack": ["CRM Tools", "Social Media Analytics", "Google Workspace"],
+    "postedDate": "2024-05-24"
+  }
+]
