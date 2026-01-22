@@ -1,0 +1,61 @@
+{
+  "schoolProjects": [
+    {
+      "id": "JS-101",
+      "gradeRange": "1-5",
+      "category": "Physics",
+      "emoji": "🧲",
+      "title": "Magic Magnet Maze",
+      "description": "Learn how magnets pull things without touching them by guiding a metal ball through a cardboard maze!",
+      "complexity": "Easy",
+      "buildTime": "1 hour",
+      "images": [
+        "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1531746790731-6c087fecd05a?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200"
+      ]
+    },
+    {
+      "id": "JS-102",
+      "gradeRange": "1-5",
+      "category": "Chemistry",
+      "emoji": "🌋",
+      "title": "Colorful Kitchen Volcano",
+      "description": "A classic fizzing volcano using baking soda and vinegar to show how gases are made!",
+      "complexity": "Easy",
+      "buildTime": "30 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1530210124550-912dc1381cb8?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1516339901600-2e1a6298ed74?auto=format&fit=crop&q=80&w=1200"
+      ]
+    },
+    {
+      "id": "JS-201",
+      "gradeRange": "6-10",
+      "category": "Environment",
+      "emoji": "💧",
+      "title": "Rainwater Harvesting Model",
+      "description": "Build a miniature house that collects rain in a tank and filters it for garden use.",
+      "complexity": "Medium",
+      "buildTime": "3 hours",
+      "images": [
+        "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1200"
+      ]
+    },
+    {
+      "id": "JS-202",
+      "gradeRange": "6-10",
+      "category": "Technology",
+      "emoji": "🚗",
+      "title": "Balloon Powered Car",
+      "description": "Newton’s Third Law in action! Build a car that zooms across the floor using air power.",
+      "complexity": "Medium",
+      "buildTime": "2 hours",
+      "images": [
+        "https://images.unsplash.com/photo-1559811814-e2c57b5e69df?auto=format&fit=crop&q=80&w=1200",
+        "https://images.unsplash.com/photo-1581092346544-245451494024?auto=format&fit=crop&q=80&w=1200"
+      ]
+    }
+  ]
+}
