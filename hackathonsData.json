@@ -1,6 +1,5 @@
-{
-  "hackathons": [
-    {
+[
+ {
       "id": "h1",
       "title": "ShikshaLokam Challenge",
       "company": "ShikshaLokam",
@@ -84,5 +83,4 @@
       "joinLink": "https://devfolio.co/hackathons",
       "applyLink": "https://forms.gle/dominantmind-apply"
     }
-  ]
-}
+]
