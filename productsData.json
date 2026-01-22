@@ -1,0 +1,138 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Mosquito Trap Pro",
+    "price": 1200,
+    "category": "Home Tech",
+    "shortDescription": "Eco-friendly UV suction trap for indoor use.",
+    "longDescription": "A high-efficiency mosquito trap using specific UV wave frequencies to attract insects and a powerful silent fan to trap them. No chemicals, safe for kids and pets.",
+    "images": [
+      "https://images.unsplash.com/photo-1585832813007-84950e32d184?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1626338534102-3e392e77e1f6?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1621252179027-94459d278660?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["UV LED 365nm", "USB Powered", "Detachable tray", "Quiet Operation"],
+    "inStock": true
+  },
+  {
+    "id": "prod-002",
+    "name": "AI Cleaner Robot Kit",
+    "price": 4500,
+    "category": "Robotics",
+    "shortDescription": "Smart autonomous floor cleaner with obstacle avoidance.",
+    "longDescription": "A DIY-friendly yet powerful AI cleaner robot. Uses ultrasonic sensors and custom algorithms to navigate rooms and clean efficiently.",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["Arduino Mega", "Ultrasonic Sensors", "High-torque Motors", "Lithium Ion Battery"],
+    "inStock": true
+  },
+  {
+    "id": "prod-003",
+    "name": "Smart Worker Mask",
+    "price": 850,
+    "category": "Safety",
+    "shortDescription": "N95 compatible mask with active air filtration and sensors.",
+    "longDescription": "Designed for industrial workers, this mask features active air intake and a CO2 sensor to alert users when air quality is low.",
+    "images": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1586734139887-f83120138980?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["HEPA Filter", "CO2 Monitor", "Rechargeable Fan", "Adjustable Straps"],
+    "inStock": true
+  },
+  {
+    "id": "prod-004",
+    "name": "Electric Battery Device",
+    "price": 1500,
+    "category": "Electronics",
+    "shortDescription": "Portable high-capacity power bank for field engineering.",
+    "longDescription": "Rugged power source capable of running microcontrollers and small hardware components for up to 24 hours in the field.",
+    "images": [
+      "https://images.unsplash.com/photo-1620288627223-53302f4e8c70?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["20,000mAh", "Multi-voltage output", "LED Status", "Rugged Casing"],
+    "inStock": true
+  },
+  {
+    "id": "prod-005",
+    "name": "Smart Dustbin Kit",
+    "price": 2200,
+    "category": "IoT",
+    "shortDescription": "Automatic lid opening bin with fill-level alerts.",
+    "longDescription": "An IoT enabled dustbin that opens automatically when hands are near and sends a mobile notification when it reaches 90% capacity.",
+    "images": [
+      "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["IR Proximity Sensor", "Ultrasonic Level Sensor", "Servo Motor", "WiFi Enabled"],
+    "inStock": true
+  },
+  {
+    "id": "prod-006",
+    "name": "IoT Smart Door Lock",
+    "price": 3500,
+    "category": "Security",
+    "shortDescription": "WiFi enabled deadbolt with remote app access.",
+    "longDescription": "Replace your standard lock with this IoT solution. Unlock your door from anywhere in the world via the Dominant Mind mobile app.",
+    "images": [
+      "https://images.unsplash.com/photo-1558002038-1037906d9927?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["ESP32 Based", "Steel Lock Mechanism", "Battery Backup", "End-to-end Encryption"],
+    "inStock": true
+  },
+  {
+    "id": "prod-007",
+    "name": "Solar Power Station",
+    "price": 2800,
+    "category": "Energy",
+    "shortDescription": "Compact solar charging kit for mobile and IoT devices.",
+    "longDescription": "Harvest clean energy. This kit includes a high-efficiency solar panel and a battery management system for off-grid power.",
+    "images": [
+      "https://images.unsplash.com/photo-1509391366360-fe5bb62935c2?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["10W Mono Panel", "USB Output", "IP65 Waterproof", "Built-in Stand"],
+    "inStock": true
+  },
+  {
+    "id": "prod-008",
+    "name": "Auto Plant Waterer",
+    "price": 1400,
+    "category": "Agriculture",
+    "shortDescription": "Precision irrigation system for indoor plants.",
+    "longDescription": "Never forget to water your plants. This device monitors soil moisture and provides exactly the right amount of water when needed.",
+    "images": [
+      "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["Capacitive Soil Sensor", "Submersible Pump", "Adjustable Threshold", "LCD Interface"],
+    "inStock": true
+  },
+  {
+    "id": "prod-009",
+    "name": "Object Avoidance Robot",
+    "price": 2600,
+    "category": "Education",
+    "shortDescription": "Basic learning kit for beginner robotics students.",
+    "longDescription": "The perfect starter kit for students to learn motor control and sensor integration. Includes pre-written code and assembly guide.",
+    "images": [
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["2WD Chassis", "Arduino Compatible", "Ultrasonic Sensor", "Tutorial Manual"],
+    "inStock": true
+  },
+  {
+    "id": "prod-010",
+    "name": "BT Audio Dev Kit",
+    "price": 1950,
+    "category": "Electronics",
+    "shortDescription": "High-fidelity Bluetooth speaker building kit.",
+    "longDescription": "Build your own wireless audio system. This kit includes the amplifier board, speakers, and a modern Bluetooth 5.0 module.",
+    "images": [
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&q=80&w=800"
+    ],
+    "specs": ["BT 5.0", "10W Stereo Amp", "Passive Radiator", "Li-Po Charge Circuit"],
+    "inStock": true
+  }
+]
