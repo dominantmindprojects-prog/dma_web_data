@@ -1,94 +1,74 @@
-{
-  "projects": [
-    {
-      "id": 1,
-      "category": "Artificial Intelligence",
-      "title": "Fake News Detection",
-      "shortDescription": "A machine learning model using NLP to classify news articles as real or fake.",
-      "longDescription": "Developed a robust machine learning model leveraging Natural Language Processing (NLP) techniques to accurately detect and classify fake news articles.",
-      "icon": "BrainCircuit",
-      "gradient": "from-purple-500 to-indigo-600",
-      "techStack": ["Python", "TensorFlow", "Keras", "NLTK", "scikit-learn"],
-      "offerings": ["Source Code", "IEEE Papers", "PPT", "Live Training", "Documentation"],
-      "images": [
-        "/images/fake-news-1.png",
-        "/images/fake-news-2.png",
-        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=800"
-      ]
-    },
-    {
-      "id": 2,
-      "category": "Artificial Intelligence",
-      "title": "Facial Emotion Recognition",
-      "shortDescription": "Deep learning system that detects human emotions from live camera feeds.",
-      "longDescription": "Using CNNs, this system identifies expressions like happiness, sadness, anger, and surprise in real-time.",
-      "icon": "BrainCircuit",
-      "gradient": "from-blue-500 to-indigo-600",
-      "techStack": ["Python", "OpenCV", "TensorFlow", "CNN"],
-      "offerings": ["Source Code", "Trained Weights", "Report", "Viva Guide"],
-      "images": [
-        "/images/emotion-1.png",
-        "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?auto=format&fit=crop&q=80&w=800"
-      ]
-    },
-    {
-      "id": 5,
-      "category": "IoT Solutions",
-      "title": "Smart Home Automation",
-      "shortDescription": "Control appliances via smartphone with real-time feedback.",
-      "longDescription": "Designed a comprehensive smart home system allowing users to remotely control lights and fans via ESP32.",
-      "icon": "Wifi",
-      "gradient": "from-cyan-500 to-blue-600",
-      "techStack": ["ESP32", "Arduino", "Blynk", "MQTT"],
-      "offerings": ["Source Code", "Hardware Kit", "PPT", "Live Training", "Documentation"],
-      "images": [
-        "/images/smart-home.png",
-        "https://images.unsplash.com/photo-1558002038-1037906d9927?auto=format&fit=crop&q=80&w=800"
-      ]
-    },
-    {
-      "id": 7,
-      "category": "Web Development",
-      "title": "Real-time Chat Application",
-      "shortDescription": "Modern chat platform with Socket.io for instant messaging.",
-      "longDescription": "A Slack-like clone with public rooms, private chats, and file sharing.",
-      "icon": "Globe",
-      "gradient": "from-blue-600 to-indigo-700",
-      "techStack": ["React", "Node.js", "Socket.io", "MongoDB"],
-      "offerings": ["Full Source", "Database Schema", "Report", "Deployment Guide"],
-      "images": [
-        "/images/chat-app.png",
-        "https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&q=80&w=800"
-      ]
-    },
-    {
-      "id": 31,
-      "category": "Game Development",
-      "title": "2D Platformer Game",
-      "shortDescription": "Side-scrolling platform game with levels and enemies.",
-      "longDescription": "Developed using Unity and C#, featuring multiple levels and enemy AI.",
-      "icon": "Gamepad2",
-      "gradient": "from-purple-500 to-pink-600",
-      "techStack": ["Unity", "C#", "Photoshop"],
-      "offerings": ["Source Code", "Gameplay Video", "Documentation"],
-      "images": [
-        "https://images.unsplash.com/photo-1605130889365-6a7a6c5cfdc3?auto=format&fit=crop&q=80&w=800"
-      ]
-    },
-    {
-      "id": 32,
-      "category": "Blockchain",
-      "title": "Smart Contract Voting System",
-      "shortDescription": "Decentralized voting platform using Ethereum smart contracts.",
-      "longDescription": "Ensures transparency and immutability of votes on blockchain.",
-      "icon": "Boxes",
-      "gradient": "from-indigo-500 to-blue-600",
-      "techStack": ["Solidity", "Ethereum", "Web3.js"],
-      "offerings": ["Smart Contract Code", "Deployment Guide", "Demo Video"],
-      "images": [
-        "https://images.unsplash.com/photo-1603791440384-56cd371ee9d3?auto=format&fit=crop&q=80&w=800"
-      ]
-    }
-  ],
-  "topProjects": [1, 2, 5, 7, 31, 32]
-}
+[
+  {
+    "id": 91,
+    "category": "Artificial Intelligence",
+    "title": "Fake News Detection System",
+    "shortDescription": "AI model using NLP to identify misinformation in digital news articles.",
+    "longDescription": "Developed a robust AI solution leveraging Natural Language Processing (NLP) and Passive Aggressive Classifier to distinguish between real and fake news with high accuracy.",
+    "icon": "BrainCircuit",
+    "gradient": "from-purple-600 to-indigo-700",
+    "techStack": ["Python", "Scikit-learn", "TF-IDF", "NLP"],
+    "offerings": ["Source Code", "IEEE Paper", "PPT", "Training"],
+    "images": ["fakeNews1", "fakeNews2"]
+  },
+  {
+    "id": 92,
+    "category": "Machine Learning",
+    "title": "Crop Yield Prediction",
+    "shortDescription": "Predicting agricultural productivity based on environmental factors.",
+    "longDescription": "A machine learning model that analyzes soil quality, rainfall, and temperature to help farmers estimate harvest yields for better planning.",
+    "icon": "Binary",
+    "gradient": "from-emerald-500 to-teal-600",
+    "techStack": ["Python", "Random Forest", "Pandas", "Flask"],
+    "offerings": ["Dataset", "Report", "Setup Guide", "Viva Q&A"],
+    "images": ["smartAgri1"]
+  },
+  {
+    "id": 93,
+    "category": "Deep Learning",
+    "title": "Facial Emotion Recognition",
+    "shortDescription": "Deep Learning system detecting human emotions from live video feeds.",
+    "longDescription": "Using Convolutional Neural Networks (CNN), this project identifies expressions like joy, sadness, and anger in real-time through a camera.",
+    "icon": "Layers",
+    "gradient": "from-rose-500 to-pink-600",
+    "techStack": ["Keras", "TensorFlow", "OpenCV", "CNN"],
+    "offerings": ["Full Code", "Model Weights", "IEEE Report"],
+    "images": ["emotion1"]
+  },
+  {
+    "id": 94,
+    "category": "IoT Solutions",
+    "title": "Smart Home Automation",
+    "shortDescription": "Control appliances remotely with real-time status and security alerts.",
+    "longDescription": "An IoT ecosystem built on ESP32 that allows users to control household devices via a mobile app with integrated fire and motion detection.",
+    "icon": "Wifi",
+    "gradient": "from-cyan-500 to-blue-600",
+    "techStack": ["ESP32", "Arduino", "Blynk", "MQTT"],
+    "offerings": ["Hardware Kit", "Firmware", "Android App", "BOM"],
+    "images": ["smartHome1"]
+  },
+  {
+    "id": 95,
+    "category": "Web Development",
+    "title": "Real-time College ERP",
+    "shortDescription": "Centralized portal for managing student data, attendance, and results.",
+    "longDescription": "A scalable web application designed for educational institutions to automate administrative tasks and enhance teacher-student communication.",
+    "icon": "LayoutTemplate",
+    "gradient": "from-blue-600 to-blue-800",
+    "techStack": ["React", "Node.js", "MongoDB", "Express"],
+    "offerings": ["Admin Panel", "DB Schema", "Deployment Guide"],
+    "images": ["chatApp1"]
+  },
+  {
+    "id": 96,
+    "category": "Android Apps",
+    "title": "Expense Tracker Pro",
+    "shortDescription": "Mobile app for personal finance management with visual analytics.",
+    "longDescription": "A feature-rich Android app helping users track daily expenses, set budgets, and visualize spending patterns through interactive charts.",
+    "icon": "Smartphone",
+    "gradient": "from-green-400 to-teal-500",
+    "techStack": ["Kotlin", "Room DB", "Firebase", "MVVM"],
+    "offerings": ["APK File", "Source Code", "UI Designs"],
+    "images": ["expensePro1"]
+  }
+]
