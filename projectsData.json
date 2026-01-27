@@ -9,7 +9,7 @@
     "gradient": "from-purple-600 to-indigo-700",
     "techStack": ["Python", "Scikit-learn", "TF-IDF", "NLP"],
     "offerings": ["Source Code", "IEEE Paper", "PPT", "Training"],
-    "images": ["fakeNews1", "fakeNews2"]
+    "images": ["https://pikwizard.com/pw/medium/15da5bad5a6e007f46a22968e23cf2bc.png", "https://pikwizard.com/pw/medium/e7a67a0f10ef91c22480efea253b5368.png", "https://www.clipartmax.com/png/small/287-2879312_intelligent-solutions-transparent-iot.png", "https://www.clipartmax.com/png/middle/29-298859_internet-of-things.png"]
   },
   {
     "id": 92,
