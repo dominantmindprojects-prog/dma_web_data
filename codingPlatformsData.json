@@ -1,42 +1,42 @@
 [
-    {
-      "id": "lc",
-      "name": "LeetCode",
-      "highlight": "Daily LeetCode Mastery",
-      "stats": "92% LeetCode Rank Jump",
-      "timeSlot": "1:00 PM – 2:00 PM",
-      "day": "Monday"
-    },
-    {
-      "id": "cf",
-      "name": "Codeforces",
-      "highlight": "Codeforces Division Prep",
-      "stats": "Specialist+ Codeforces Streak",
-      "timeSlot": "4:00 PM – 5:00 PM",
-      "day": "Tuesday"
-    },
-    {
-      "id": "cc",
-      "name": "CodeChef",
-      "highlight": "CodeChef Star Challenge",
-      "stats": "Top 5% CodeChef Performers",
-      "timeSlot": "6:00 PM – 7:00 PM",
-      "day": "Wednesday"
-    },
-    {
-      "id": "gfg",
-      "name": "GeeksforGeeks",
-      "highlight": "GFG Problem of the Day",
-      "stats": "GFG Interview Ready",
-      "timeSlot": "3:00 PM – 4:00 PM",
-      "day": "Thursday"
-    },
-    {
-      "id": "hr",
-      "name": "HackerRank",
-      "highlight": "HackerRank Certification",
-      "stats": "HackerRank Gold Badge",
-      "timeSlot": "5:00 PM – 6:00 PM",
-      "day": "Friday"
-    }
-  ]
+  {
+    "id": "lc",
+    "name": "LeetCode",
+    "highlight": "Daily LeetCode Mastery",
+    "stats": "92% LeetCode Rank Jump",
+    "timeSlot": "1:00 PM – 2:00 PM",
+    "day": "Monday"
+  },
+  {
+    "id": "cf",
+    "name": "Codeforces",
+    "highlight": "Division-wise Competitive Practice",
+    "stats": "Specialist+ Rating Growth",
+    "timeSlot": "4:00 PM – 5:00 PM",
+    "day": "Tuesday"
+  },
+  {
+    "id": "cc",
+    "name": "CodeChef",
+    "highlight": "Star Level Contests",
+    "stats": "Top 5% Performers",
+    "timeSlot": "6:00 PM – 7:00 PM",
+    "day": "Wednesday"
+  },
+  {
+    "id": "gfg",
+    "name": "GeeksforGeeks",
+    "highlight": "Problem of the Day",
+    "stats": "Interview-Ready Track",
+    "timeSlot": "3:00 PM – 4:00 PM",
+    "day": "Thursday"
+  },
+  {
+    "id": "hr",
+    "name": "HackerRank",
+    "highlight": "Skill Certification Prep",
+    "stats": "Gold Badge Progress",
+    "timeSlot": "5:00 PM – 6:00 PM",
+    "day": "Friday"
+  }
+]
