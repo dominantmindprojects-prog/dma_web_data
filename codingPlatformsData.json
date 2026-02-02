@@ -1,5 +1,4 @@
-{
-  "platformSpotlights": [
+[
     {
       "id": "lc",
       "name": "LeetCode",
@@ -40,17 +39,4 @@
       "timeSlot": "5:00 PM – 6:00 PM",
       "day": "Friday"
     }
-  ],
-  "platformLogos": [
-    { "name": "LeetCode", "color": "bg-orange-500", "icon": "LC" },
-    { "name": "CodeChef", "color": "bg-amber-800", "icon": "CC" },
-    { "name": "Codeforces", "color": "bg-red-600", "icon": "CF" },
-    { "name": "GeeksforGeeks", "color": "bg-green-600", "icon": "GFG" },
-    { "name": "HackerRank", "color": "bg-emerald-500", "icon": "HR" },
-    { "name": "HackerEarth", "color": "bg-blue-800", "icon": "HE" },
-    { "name": "AtCoder", "color": "bg-slate-700", "icon": "AC" },
-    { "name": "SPOJ", "color": "bg-blue-600", "icon": "SP" },
-    { "name": "InterviewBit", "color": "bg-indigo-600", "icon": "IB" },
-    { "name": "CSES Set", "color": "bg-rose-600", "icon": "CS" }
   ]
-}
