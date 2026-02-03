@@ -1,6 +1,6 @@
 [
   {
-    "id": "course-001",
+    "id": "course-00100",
     "title": "AWS Certified Cloud Practitioner",
     "provider": "Amazon Web Services",
     "category": "Cloud",
@@ -10,7 +10,7 @@
     "duration": "4-6 Weeks"
   },
   {
-    "id": "course-002",
+    "id": "course-00102",
     "title": "Google Data Analytics Professional",
     "provider": "Coursera",
     "category": "Data Science",
@@ -20,7 +20,7 @@
     "duration": "2-3 Months"
   },
   {
-    "id": "course-003",
+    "id": "course-00103",
     "title": "CompTIA Security+",
     "provider": "CompTIA",
     "category": "Security",
@@ -40,7 +40,7 @@
     "duration": "3 Months"
   },
   {
-    "id": "course-005",
+    "id": "course-00105",
     "title": "Azure Fundamentals (AZ-900)",
     "provider": "Microsoft",
     "category": "Cloud",
@@ -50,7 +50,7 @@
     "duration": "4 Weeks"
   },
   {
-    "id": "course-006",
+    "id": "course-00106",
     "title": "Cisco Certified Network Associate (CCNA)",
     "provider": "Cisco",
     "category": "Networking",
