@@ -1,7 +1,7 @@
 [
   {
     "id": 91,
-    "category": ["Artificial Intelligence", "Data Science & Analysis"],
+    "categories": ["Artificial Intelligence", "Data Science & Analysis"],
     "title": "Fake News Detection System",
     "shortDescription": "AI model using NLP to identify misinformation in digital news articles.",
     "longDescription": "Developed a robust AI solution leveraging Natural Language Processing (NLP) and Passive Aggressive Classifier to distinguish between real and fake news with high accuracy.",
